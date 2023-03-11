@@ -1,3 +1,16 @@
+.footer{
+   background-color: #BFDBFF;
+}
+
+li{
+   list-style: none;
+}
+
+li > a {
+  text-decoration : none;
+  color: black;
+}
+
 .App {
   text-align: center;
 }
